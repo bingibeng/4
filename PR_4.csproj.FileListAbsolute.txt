@@ -1,0 +1,8 @@
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_4\obj\Debug\PR_4.csproj.AssemblyReference.cache
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_4\obj\Debug\PR_4.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_4\obj\Debug\PR_4.csproj.CoreCompileInputs.cache
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_4\bin\Debug\PR_4.exe.config
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_4\bin\Debug\PR_4.exe
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_4\bin\Debug\PR_4.pdb
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_4\obj\Debug\PR_4.exe
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_4\obj\Debug\PR_4.pdb
